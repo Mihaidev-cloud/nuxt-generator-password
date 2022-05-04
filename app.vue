@@ -5,7 +5,7 @@
     <center>
    <h1>Welcome to the password generator</h1>
    <p>Get your password generated secured</p>
-   <a id="projectlink" href="">Check the project!</a>
+   <a id="projectlink" href="https://github.com/Mihaidev-cloud/nuxt-generator-password">Check the project!</a>
 </center>
    <div class="container">
 <h1 class="title">Password Generator</h1>
